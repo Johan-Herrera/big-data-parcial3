@@ -1,5 +1,5 @@
-# big-data-parcial3
-Parcial final de bigdata
+
+                                                                        Parcial final de bigdata
 Guia:
 # 1 Crear el entorno de kafka
 
